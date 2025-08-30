@@ -80,7 +80,7 @@ Conversion Rate by Hour of Day
 
 Conversion Rate by Session Duration
 
-(Add screenshot here)
+<img width="1920" height="1080" src="images/Screenshot 2025-08-30 010113.png"/>
 
 
 💡 Business Insights
